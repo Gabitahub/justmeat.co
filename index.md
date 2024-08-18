@@ -157,7 +157,7 @@ layout: home
 - [RAW-some Primal Carnivore & Zero Carb Sanctuary](https://www.facebook.com/groups/191667651770756/)
 - [להתאפס בריא (Zeroing in on Health בעברית)](https://www.facebook.com/groups/827266607340148/)
 
-## Twitter
+## Twitter / X
 
 - [L. Amber O’Hearn](https://twitter.com/KetoCarnivore) (@KetoCarnivore)
 - [Shawn Baker, M.D.](https://twitter.com/SBakerMD) (@SBakerMD)
@@ -167,7 +167,7 @@ layout: home
 - [Georgia Ede, M.D.](https://twitter.com/GeorgiaEdeMD) (@GeorgiaEdeMD)
 - [Miki Ben-Dor](https://twitter.com/bendormiki) (@bendormiki)
 - [Raphi Sirt](https://twitter.com/raphaels7) (@raphaels7)
-- [Mikhaila Peterson](https://twitter.com/MikhailaAleksis) (@MikhailaAleksis)
+- [Mikhaila Peterson](https://x.com/MikhailaFuller) (@MikhailaFuller)
 - [Dr. Ann Childers](https://twitter.com/AnnChildersMD) (@AnnChildersMD)
 - [Peter Ballerstedt](https://twitter.com/GrassBased) (@GrassBased)
 - [Travis Statham](https://twitter.com/travis_statham) (@travis_statham)
