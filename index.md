@@ -175,16 +175,14 @@ layout: home
 - [Nina Teicholz](https://twitter.com/bigfatsurprise) (@bigfatsurprise)
 - [Allan Savory](https://twitter.com/AllanRSavory) (@AllanRSavory)
 - [Savory Institute](https://twitter.com/SavoryInstitute) (@SavoryInstitute)
-- [Charles Washington](https://twitter.com/chaszero) (@chaszero)
 - [Dana Spencer Shute](https://twitter.com/ZeroCarbHealth) (@ZeroCarbHealth)
-- [Josh Blackburn](https://twitter.com/LogicalLynx) (@LogicalLynx)
 - [RootCause MD](https://twitter.com/RootCauseDoctor) (@RootCauseDoctor)
 - [Kelly Williams Hogan](https://twitter.com/kelly_hogan_zc) (@kelly_hogan_zc)
 - [GuyNAustin](https://twitter.com/GuyNAustin) (@GuyNAustin)
 - [Carnivore Aurelius](https://twitter.com/KetoAurelius) (@KetoAurelius)
 - [nutritionwithjudy](https://twitter.com/nutritionwjudy) (@NutritionwJudy)
 - [Dr. Tro](https://twitter.com/DoctorTro) (@DoctorTro)
-- [Michael Anthony](https://twitter.com/meat0sis) (@meat0sis)
+- [Michael Anthony](https://x.com/themeatofit) (@themeatofit) 
 
 ## Instagram
 
